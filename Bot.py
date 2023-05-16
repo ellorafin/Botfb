@@ -1,4 +1,4 @@
-GNU nano 7.2                                   bot.py
+
 from fbthon import Facebook
 from fbthon import Web_Login
 import os
@@ -26,3 +26,4 @@ post.send_comment("TEXT NYA")
 print ("SUCCES")
 print ("")
 os.system("python bot.py")
+#jika sudah maka klik ctrl+x
